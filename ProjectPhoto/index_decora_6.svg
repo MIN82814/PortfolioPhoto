@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 114 34">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #eeb97c;
+        stroke-dasharray: 9;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.8, SVG Export Plug-In . SVG Version: 1.2.0 Build 200)  -->
+  <g>
+    <g id="_圖層_1" data-name="圖層_1">
+      <path class="cls-1" d="M-2.3-1.7S15.9,51.4,62.4,22.6s31.2-12.5,56,7.6"/>
+    </g>
+  </g>
+</svg>
